@@ -1,4 +1,4 @@
-# malaria-parabricks-pipeline
+# Malaria-Parabricks-Pipeline
 Download the 90 Day Trial license for Nvidia Clara Parabricks from the given link
 
 [Genome Sequencing Analysis: Free 90day Trial | NVIDIA](https://www.nvidia.com/en-us/clara/genomics/)
