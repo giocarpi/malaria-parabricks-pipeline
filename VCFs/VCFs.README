@@ -1,0 +1,12 @@
+Malaria-Parabricks Pipeline 
+----------------------------
+
+Listed below is the web-accessable link to VCF outputs for 979 P. falciparum genome after filtering out vatiants in telomeric and hypervariable regions
+
+https://www.datadepot.rcac.purdue.edu/gcarpi/malaria-parabricks/
+
+- GATK CPU output variants as gold standard and truth call set against which we compared the variants called by the Parabricks GPU accelerated pipeline
+    (1000_baseline_gatk_results_after_hypervar_vcfs)  
+
+- Parabricks GPU output vatiants
+    (1000_parabricks_results_after_hypervar_vcfs)
