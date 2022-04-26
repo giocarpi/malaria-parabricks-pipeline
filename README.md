@@ -2,7 +2,7 @@
 
 #### Introduction
 
-Large-scale pathogen genomic data is crucial to characterize local and global transmission patterns and spread of important human infectious diseases. Yet, even as pathogen genome datasets grow, current methods to process raw sequence reads into analysis-ready variants remain slow to scale. Here we introduce a GPU framework to accelerate pathogen genomic variant identification. We optimize and evaluate the performance, sensitivity and precision of the GPU framework across benchmark sets of *Plasmodium falciparum* genomes and sequencing depths relative to the GATK Best Practices pipeline. We demonstrate superior throughput performance of the GPU framework with mean execution time reduced by ***27x*** and ***5x*** reduction in cost , while delivering **99.9**% accuracy and enhancing reproducibility over standard pipeline.
+Large-scale pathogen genomic data is crucial to characterize local and global transmission patterns and spread of important human infectious diseases. Yet, even as pathogen genome datasets grow, current methods to process raw sequence reads into analysis-ready variants remain slow to scale. Here we introduce a GPU framework to accelerate pathogen genomic variant identification. We optimize and evaluate the performance, sensitivity and precision of the GPU framework across benchmark sets of *Plasmodium falciparum* genomes and sequencing depths relative to the GATK Best Practices pipeline. We demonstrate superior throughput performance of the GPU framework with mean execution time reduced by ***27x*** and ***4.6x*** reduction in cost , while delivering **99.9**% accuracy and enhancing reproducibility over standard pipeline.
 
 #### Requirements
 
